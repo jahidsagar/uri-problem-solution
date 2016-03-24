@@ -1,4 +1,4 @@
-int main()
+main()
 {
 
 	int a,b,sum;
@@ -6,6 +6,4 @@ int main()
 	scanf("%d %d",&a,&b);
 	sum=a+b;
 	printf("X = %d\n",sum);
-	 
-	return 0;
 }
